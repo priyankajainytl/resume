@@ -50,9 +50,9 @@
 ---
 ### TECHNICAL SKILLS
 
-> Programming languages: Java, Python, SQL
-> Databases:  MySQL, Postgres, Oracle, Excel
-> Data visualization:  Tableau, PowerBI
+- **Programming languages**: Java, Python, SQL
+- **Databases**:  MySQL, Postgres, Oracle, Excel
+- **Data visualization**:  Tableau, PowerBI
 ---
 ### Personal projects
 
